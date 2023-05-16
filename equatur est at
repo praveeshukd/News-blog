@@ -1,0 +1,9 @@
+[90m= [39m[34;4mApp\Models\Post[39;24m {#6111
+    [34mtitle[39m: "[32mnew[39m",
+    [34mexcerpt[39m: "[32mlast[39m",
+    [34mbody[39m: "[32mLorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum, nulla consectetur saepe necessitatibus [39m",
+    [34mupdated_at[39m: "[32m2023-04-28 02:28:01[39m",
+    [34mcreated_at[39m: "[32m2023-04-28 02:28:01[39m",
+    [34mid[39m: [35m4[39m,
+  }
+
